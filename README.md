@@ -83,7 +83,10 @@ npm start
 Abro navegador  http://127.0.0.1:3000/ para ver la página de inicio.
 
 Rutas Disponibles
-GET /: Página de inicio.
-GET /about: Información sobre la aplicación.
-POST /data: Enviar datos al servidor.
+
+**GET /: Página de inicio.**
+
+**GET /about: Información sobre la aplicación.**
+
+**POST /data: Enviar datos al servidor.**
 
