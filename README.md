@@ -90,3 +90,4 @@ Rutas Disponibles
 
 **POST /data: Enviar datos al servidor.**
 
+******AUTOR: VILMA PONCE******
